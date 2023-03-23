@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dhruv</h1>
-<h4 align="center">A, learner,  web developer and 4th year Computer Science Major at the University of British Columbia, see my <a href="https://github.com/flashdhruv/flashdhruv/blob/main/Dhruv's%20Resume%20March%202023.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A, learner,  web developer and a 4th year Computer Science Major at the University of British Columbia, see my <a href="https://github.com/flashdhruv/flashdhruv/blob/main/Dhruv's%20Resume%20March%202023.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
