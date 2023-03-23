@@ -5,7 +5,7 @@
 
 
 -----
-<details>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -23,4 +23,4 @@
     </p>
   </samp>
 </div>
-</details>
+
