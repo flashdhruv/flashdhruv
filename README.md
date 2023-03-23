@@ -10,7 +10,7 @@
 <br>
 
 - A passionate developer from the University of British Columbia
-- Experimenting and learning new technology in my free time!
+- Experimenting with and learning new technologies in my free time!
 - Personal website [link](https://flashdhruv.github.io/Portfolio-2.0/)
 - I’m currently looking for an Internship or a new job opportunity!
 
