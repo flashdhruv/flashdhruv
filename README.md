@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Dhruv</h1>
-<h4 align="center">A, learner,  web developer and a 4th year Computer Science Major at the University of British Columbia, see my <a href="https://github.com/flashdhruv/flashdhruv/blob/main/Dhruv's%20Resume%20March%202023.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A, learner, software developer and an undergrad with a Computer Science Major at the University of British Columbia, see my <a href="https://github.com/flashdhruv/flashdhruv/blob/main/Dhruv's%20Resume%20March%202023.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -12,7 +12,7 @@
 - A passionate developer from the University of British Columbia
 - Experimenting with and learning new technologies in my free time!
 - Personal website [link](https://flashdhruv.github.io/Portfolio-2.0/)
-- I’m currently looking for an Internship or a new job opportunity!
+- I’m currently looking for a new job opportunity!
 
 <br><br>
 -----
